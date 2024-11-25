@@ -8,9 +8,9 @@ export default {
     extend: {
       colors: {
         'blue': '#00ABD0',
+        'conecta-azul': '#00ABD0',
       },
     },
   },
   plugins: [],
 }
-
